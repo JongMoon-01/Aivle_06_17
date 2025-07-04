@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: aisystem
-          image: "username/aisystem17:latest"
+          image: "username/aisystem3:latest"
           ports:
             - containerPort: 8080
           readinessProbe:
